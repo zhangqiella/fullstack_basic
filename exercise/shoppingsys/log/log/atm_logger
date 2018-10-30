@@ -1,0 +1,127 @@
+2018-10-30 11:19:20,470 - atm_logger - WARNING - atmauth.py - 19 - no authenticated,input your username and password to log in!
+2018-10-30 11:19:37,638 - atm_logger - WARNING - atmauth.py - 60 - incorrect atm username and password
+2018-10-30 11:19:37,639 - atm_logger - WARNING - atmauth.py - 61 - you still have 2 times to try
+2018-10-30 11:20:13,874 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 11:20:20,588 - atm_logger - WARNING - atmauth.py - 59 - incorrect atm username and password
+2018-10-30 11:20:20,589 - atm_logger - WARNING - atmauth.py - 60 - you still have 2 times to try
+2018-10-30 11:20:49,781 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 11:20:53,402 - atm_logger - WARNING - atmauth.py - 59 - incorrect atm username and password
+2018-10-30 11:20:53,403 - atm_logger - WARNING - atmauth.py - 60 - you still have 2 times to try
+2018-10-30 11:20:59,466 - atm_logger - WARNING - atmauth.py - 50 - time expiration!
+2018-10-30 11:20:59,467 - atm_logger - WARNING - atmauth.py - 24 - login failed!
+2018-10-30 11:21:03,941 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 11:21:09,541 - atm_logger - WARNING - atmauth.py - 50 - time expiration!
+2018-10-30 11:21:09,541 - atm_logger - WARNING - atmauth.py - 24 - login failed!
+2018-10-30 11:22:04,422 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 11:22:07,734 - atm_logger - WARNING - atmauth.py - 59 - incorrect atm username and password
+2018-10-30 11:22:07,734 - atm_logger - WARNING - atmauth.py - 60 - you still have 2 times to try
+2018-10-30 11:22:11,471 - atm_logger - WARNING - atmauth.py - 46 - log passed!
+2018-10-30 11:22:11,471 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 11:29:39,295 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 11:29:43,984 - atm_logger - WARNING - atmauth.py - 59 - incorrect atm username and password
+2018-10-30 11:29:43,985 - atm_logger - WARNING - atmauth.py - 60 - you still have 2 times to try
+2018-10-30 11:29:47,773 - atm_logger - WARNING - atmauth.py - 50 - time expiration!
+2018-10-30 11:29:47,774 - atm_logger - WARNING - atmauth.py - 24 - login failed!
+2018-10-30 11:30:35,498 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 11:30:39,386 - atm_logger - WARNING - atmauth.py - 50 - time expiration!
+2018-10-30 11:30:39,387 - atm_logger - WARNING - atmauth.py - 24 - login failed!
+2018-10-30 11:30:52,692 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 11:30:56,751 - atm_logger - WARNING - atmauth.py - 54 - incorrect atm username and password
+2018-10-30 11:30:56,751 - atm_logger - WARNING - atmauth.py - 55 - you still have 2 times to try
+2018-10-30 11:31:02,994 - atm_logger - WARNING - atmauth.py - 46 - log passed!
+2018-10-30 11:31:02,995 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 11:31:31,792 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 11:31:35,817 - atm_logger - WARNING - atmauth.py - 46 - log passed!
+2018-10-30 11:31:35,818 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 22:47:02,910 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 22:48:43,629 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 22:49:48,325 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 22:49:56,342 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 22:49:56,342 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 22:50:08,683 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 22:51:08,369 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 22:51:14,025 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 22:51:14,025 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 22:51:16,179 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 22:51:32,240 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 22:54:27,740 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 22:54:32,875 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 22:54:32,876 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 22:54:35,837 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 22:57:33,965 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 22:57:38,176 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 22:57:38,176 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 22:57:39,542 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:01:19,866 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:01:24,416 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:01:24,416 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:01:25,763 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:01:43,800 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:02:26,315 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:05:06,161 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:05:10,933 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:05:10,933 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:05:12,499 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:05:38,864 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:05:43,435 - atm_logger - WARNING - atmauth.py - 58 - incorrect atm username and password
+2018-10-30 23:05:43,436 - atm_logger - WARNING - atmauth.py - 59 - you still have 2 times to try
+2018-10-30 23:05:47,820 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:05:47,820 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:05:49,034 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:07:35,075 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:07:39,253 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:07:39,253 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:07:40,513 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:07:54,210 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:08:54,888 - atm_logger - WARNING - atmmain.py - 53 - your input illegal
+2018-10-30 23:08:54,889 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:09:08,338 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:09:16,377 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:09:19,945 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:09:30,802 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:10:48,165 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:10:54,902 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:10:54,903 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:10:59,737 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:11:09,724 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:11:22,457 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:21:00,149 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:21:05,348 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:21:05,349 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:21:05,349 - atm_logger - WARNING - atmmain.py - 99 - no enough money, consume failed
+2018-10-30 23:22:00,481 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:22:06,966 - atm_logger - WARNING - atmauth.py - 58 - incorrect atm username and password
+2018-10-30 23:22:06,966 - atm_logger - WARNING - atmauth.py - 59 - you still have 2 times to try
+2018-10-30 23:22:13,295 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:22:13,296 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:22:13,298 - atm_logger - WARNING - atmmain.py - 96 - consume success
+2018-10-30 23:23:08,261 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:23:11,727 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:23:11,727 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:23:13,323 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:23:42,046 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:23:45,989 - atm_logger - DEBUG - atmmain.py - 78 - the new balance is 23000.000000
+2018-10-30 23:23:57,517 - atm_logger - WARNING - atmmain.py - 82 - invalid input
+2018-10-30 23:24:07,915 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:24:15,853 - atm_logger - WARNING - atmmain.py - 53 - your input illegal
+2018-10-30 23:24:52,856 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:25:04,022 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:25:04,022 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:25:04,026 - atm_logger - WARNING - atmmain.py - 96 - consume success
+2018-10-30 23:25:20,106 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:25:24,040 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:25:24,041 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:25:24,130 - atm_logger - WARNING - atmmain.py - 53 - your input illegal
+2018-10-30 23:25:25,494 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:25:29,084 - atm_logger - WARNING - atmmain.py - 53 - your input illegal
+2018-10-30 23:25:59,426 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:26:39,647 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:26:44,046 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:26:44,047 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:26:46,174 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:26:50,973 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:27:05,157 - atm_logger - WARNING - atmauth.py - 18 - no authenticated,input your username and password to log in!
+2018-10-30 23:27:11,083 - atm_logger - WARNING - atmauth.py - 45 - log passed!
+2018-10-30 23:27:11,083 - atm_logger - WARNING - atmauth.py - 21 - log in passed!
+2018-10-30 23:27:12,509 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!
+2018-10-30 23:27:15,550 - atm_logger - DEBUG - atmauth.py - 27 - has logged in!

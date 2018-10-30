@@ -1,0 +1,90 @@
+2018-10-29 15:37:02,872 - shop_loggerWARNING - main.py28-No authentication.You must login first!!
+2018-10-29 15:37:53,297 - shop_loggerWARNING - auth.py18-No authentication.You must login first!!
+2018-10-29 15:43:12,656 - shop_loggerWARNING - auth.py18-No authentication.You must login first!!
+2018-10-29 15:43:29,828 - shop_loggerINFO - auth.py21-login passed!
+2018-10-29 15:44:05,889 - shop_logger - WARNING - auth.py - 18 - No authentication.You must login first!!
+2018-10-29 15:45:16,101 - shop_logger - WARNING - auth.py - 18 - No authentication.You must login first!!
+2018-10-29 15:46:16,712 - shop_logger - WARNING - auth.py - 17 - No authentication.You must login first!!
+2018-10-29 15:46:33,281 - shop_logger - INFO - auth.py - 20 - login passed!
+2018-10-29 15:47:09,347 - shop_logger - WARNING - auth.py - 17 - No authentication.You must login first!!
+2018-10-29 15:47:20,180 - shop_logger - WARNING - auth.py - 23 - Login failed
+2018-10-29 16:31:55,280 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 16:32:02,051 - shop_logger - WARNING - auth.py - 26 - Login failed
+2018-10-29 16:32:31,558 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 16:32:41,551 - shop_logger - WARNING - auth.py - 26 - Login failed
+2018-10-29 16:33:56,474 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 16:34:03,767 - shop_logger - WARNING - auth.py - 26 - Login failed
+2018-10-29 16:34:13,403 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 16:34:25,135 - shop_logger - WARNING - auth.py - 26 - Login failed
+2018-10-29 16:34:43,069 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 16:34:55,880 - shop_logger - WARNING - auth.py - 26 - Login failed
+2018-10-29 16:35:33,567 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 16:35:42,376 - shop_logger - WARNING - auth.py - 26 - Login failed
+2018-10-29 16:36:01,421 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 16:37:04,833 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 16:37:09,760 - shop_logger - INFO - auth.py - 23 - login passed!
+2018-10-29 16:38:02,382 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 16:38:08,744 - shop_logger - INFO - auth.py - 23 - login passed!
+2018-10-29 19:52:25,912 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 19:52:54,440 - shop_logger - INFO - auth.py - 23 - login passed!
+2018-10-29 19:53:14,610 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 19:53:20,565 - shop_logger - WARNING - auth.py - 26 - Login failed
+2018-10-29 19:53:23,861 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 19:53:30,912 - shop_logger - WARNING - auth.py - 26 - Login failed
+2018-10-29 19:55:41,199 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 19:55:47,708 - shop_logger - INFO - auth.py - 23 - login passed!
+2018-10-29 19:59:54,784 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 20:00:00,438 - shop_logger - INFO - auth.py - 23 - login passed!
+2018-10-29 20:14:33,880 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 20:14:40,629 - shop_logger - WARNING - auth.py - 54 - your account name or password are not correct,you still have 2 times to log in
+2018-10-29 20:14:51,081 - shop_logger - WARNING - auth.py - 54 - your account name or password are not correct,you still have 1 times to log in
+2018-10-29 20:14:57,975 - shop_logger - WARNING - auth.py - 54 - your account name or password are not correct,you still have 0 times to log in
+2018-10-29 20:14:57,976 - shop_logger - WARNING - auth.py - 26 - Login failed
+2018-10-29 20:15:01,554 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 20:15:14,856 - shop_logger - WARNING - auth.py - 50 - your account name or password are not correct,you still have 2 times to log in
+2018-10-29 20:15:22,246 - shop_logger - WARNING - auth.py - 50 - your account name or password are not correct,you still have 1 times to log in
+2018-10-29 20:15:30,659 - shop_logger - WARNING - auth.py - 50 - your account name or password are not correct,you still have 0 times to log in
+2018-10-29 20:15:30,660 - shop_logger - WARNING - auth.py - 26 - Login failed
+2018-10-29 20:15:33,843 - shop_logger - WARNING - auth.py - 20 - No authentication.You must login first!!
+2018-10-29 20:15:40,015 - shop_logger - WARNING - auth.py - 50 - your account name or password are not correct,you still have 2 times to log in
+2018-10-29 20:15:45,789 - shop_logger - INFO - auth.py - 23 - login passed!
+2018-10-29 22:28:46,156 - shop_logger - WARNING - auth.py - 22 - No authentication.You must login first!!
+2018-10-29 22:28:52,272 - shop_logger - INFO - auth.py - 26 - login passed!
+2018-10-29 22:34:20,528 - shop_logger - WARNING - auth.py - 22 - No authentication.You must login first!!
+2018-10-29 22:34:25,527 - shop_logger - INFO - auth.py - 26 - login passed!
+2018-10-30 10:10:05,680 - shop_logger - WARNING - auth.py - 59 - No authentication.You must login first!!
+2018-10-30 10:10:10,227 - shop_logger - WARNING - auth.py - 46 - you have too many attempts
+2018-10-30 10:10:10,227 - shop_logger - WARNING - auth.py - 66 - log failed!
+2018-10-30 10:13:08,136 - shop_logger - WARNING - auth.py - 63 - No authentication.You must login first!!
+2018-10-30 10:13:22,975 - shop_logger - WARNING - auth.py - 63 - No authentication.You must login first!!
+2018-10-30 10:13:25,867 - shop_logger - WARNING - auth.py - 47 - incorrect account name or password, you still have 2 more attempts
+2018-10-30 10:13:34,700 - shop_logger - WARNING - auth.py - 47 - incorrect account name or password, you still have 1 more attempts
+2018-10-30 10:14:08,503 - shop_logger - WARNING - auth.py - 63 - No authentication.You must login first!!
+2018-10-30 10:14:11,772 - shop_logger - WARNING - auth.py - 47 - incorrect account name or password, you still have 2 more attempts
+2018-10-30 10:15:28,570 - shop_logger - WARNING - auth.py - 63 - No authentication.You must login first!!
+2018-10-30 10:15:32,220 - shop_logger - WARNING - auth.py - 43 - incorrect account name or password, you still have 2 more attempts
+2018-10-30 10:15:36,386 - shop_logger - WARNING - auth.py - 43 - incorrect account name or password, you still have 1 more attempts
+2018-10-30 10:15:39,452 - shop_logger - WARNING - auth.py - 43 - incorrect account name or password, you still have 0 more attempts
+2018-10-30 10:15:39,453 - shop_logger - WARNING - auth.py - 50 - you have too many attempts
+2018-10-30 10:15:39,453 - shop_logger - WARNING - auth.py - 70 - log failed!
+2018-10-30 10:15:53,585 - shop_logger - WARNING - auth.py - 63 - No authentication.You must login first!!
+2018-10-30 10:16:00,137 - shop_logger - WARNING - auth.py - 43 - incorrect account name or password, you still have 2 more attempts
+2018-10-30 10:16:06,857 - shop_logger - WARNING - auth.py - 39 - expired!
+2018-10-30 10:16:06,857 - shop_logger - WARNING - auth.py - 70 - log failed!
+2018-10-30 10:16:15,444 - shop_logger - WARNING - auth.py - 63 - No authentication.You must login first!!
+2018-10-30 10:16:19,911 - shop_logger - INFO - auth.py - 67 - login passed!
+2018-10-30 10:16:22,686 - shop_logger - WARNING - main.py - 61 - you will quit the shopping
+2018-10-30 23:20:42,231 - shop_logger - WARNING - auth.py - 63 - No authentication.You must login first!!
+2018-10-30 23:20:47,645 - shop_logger - INFO - auth.py - 67 - login passed!
+2018-10-30 23:21:00,148 - shop_logger - WARNING - main.py - 51 - you should pay 900000
+2018-10-30 23:21:05,350 - shop_logger - WARNING - main.py - 57 - your payment is failed.
+2018-10-30 23:21:31,671 - shop_logger - WARNING - auth.py - 63 - No authentication.You must login first!!
+2018-10-30 23:21:37,200 - shop_logger - INFO - auth.py - 67 - login passed!
+2018-10-30 23:22:00,480 - shop_logger - WARNING - main.py - 51 - you should pay 11000
+2018-10-30 23:22:13,298 - shop_logger - INFO - main.py - 54 - you have bought the things successfully!
+2018-10-30 23:22:49,390 - shop_logger - WARNING - auth.py - 63 - No authentication.You must login first!!
+2018-10-30 23:22:53,516 - shop_logger - WARNING - auth.py - 47 - incorrect account name or password, you still have 2 more attempts
+2018-10-30 23:24:37,486 - shop_logger - WARNING - auth.py - 63 - No authentication.You must login first!!
+2018-10-30 23:24:43,807 - shop_logger - INFO - auth.py - 67 - login passed!
+2018-10-30 23:24:52,855 - shop_logger - WARNING - main.py - 51 - you should pay 11000
+2018-10-30 23:25:04,026 - shop_logger - INFO - main.py - 54 - you have bought the things successfully!
